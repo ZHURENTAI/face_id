@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>桌面/timg.jpeg</file>
+    </qresource>
+</RCC>

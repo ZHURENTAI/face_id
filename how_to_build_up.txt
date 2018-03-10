@@ -1,0 +1,10 @@
+Your computer must have ROS,opencv and tensorflow installed
+1. copy the program to you workspace of ros, for example: catkin_ws/src
+
+2. cd .. and catkin_make
+
+4.rosrun face_detector facedetector to open your usb cam and start up your face detector node
+
+5.rosrun face_rocog faceid.py to start the face recognition node
+
+6.rosrun faceQT faceQT to start interface. you have to change the database dir in main_windows.cpp
