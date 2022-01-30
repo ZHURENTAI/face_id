@@ -35,7 +35,7 @@ Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silen
 [The Van de Graaf Canon](https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon)
 
 
-<img src="faceQT/resources/images/icon.png" width = "300" height = "300" div align=center />
+<img src="faceQT/resources/images/icon.png" width = "300" height = "300" div align=center/>
 
 <img src="faceQT/resources/images/icon.png"  div align=left />
 
