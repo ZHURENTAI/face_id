@@ -52,5 +52,6 @@ Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit 
 
 <img src="faceQT/resources/images/icon.png" width = "300" height = "300" div align=right />
 
-<img src="faceQT/resources/images/icon.png"  div align=right />
+
+<img src="faceQT/resources/images/icon.png"  div align=center />
 
