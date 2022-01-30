@@ -36,7 +36,6 @@ Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silen
 
 
 <img src="faceQT/resources/images/icon.png" width = "300" height = "300" div align=right />
-<img src="faceQT/resources/images/icon.png" width = 80% height = 80% div align=right />
 
 <img src="faceQT/resources/images/icon.png"  div align=center />
 
