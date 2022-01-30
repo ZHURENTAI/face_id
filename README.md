@@ -17,6 +17,7 @@ Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit 
 2. Duce pollice
 3. Eris modo
 4. Spargitque ferrea quos palude
+![avatar](faceQT/resources/images/icon.png)
 
 Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
 
@@ -48,6 +49,6 @@ Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit 
 
 {{< /css.inline >}}
 
-![avatar](faceQT/resources/images/icon.png)
+
 
       img1
