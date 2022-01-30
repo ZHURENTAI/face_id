@@ -17,8 +17,9 @@ Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit 
 2. Duce pollice
 3. Eris modo
 4. Spargitque ferrea quos palude
+<center>
 ![avatar](faceQT/resources/images/icon.png)
-
+</center>
 Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
 
 1. Comas hunc haec pietate fetum procerum dixit
